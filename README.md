@@ -49,7 +49,7 @@ Sesuai dengan ketentuan proyek, struktur direktori dalam repository ini diatur s
 │   ├── User Persona.png / .svg                  
 │   └── UML (Use Case, Activity, Class).png / .svg
 ├── Dokumen/
-│   ├── SRS.pdf / .md                            
-│   ├── Use Case Specification.pdf / .md         
-│   └── Requirement Traceability Matrix (RTM).pdf
+│   ├── Requirement Traceability Matrix (RTM).pdf / .md                            
+│   ├── SRS.pdf / .md         
+│   └── Use Case Specification.pdf
 └── README.md
