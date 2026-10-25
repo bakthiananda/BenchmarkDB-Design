@@ -16,7 +16,7 @@ Dokumentasi resmi dan repositori proyek untuk mata kuliah **Analisis dan Desain 
 ---
 
 ## 🚀 Latar Belakang & Problem Framing
-Video benchmark yang tersedia di platform seperti YouTube atau forum online umumnya diuji pada kondisi pengujian yang ideal (ruangan ber-AC, komponen kelas atas, *cooler* mahal), sehingga sering kali berbeda dengan performa nyata (*real-world*) setelah PC dirakit di lingkungan pengguna biasa[cite: 16]. Selain itu, aplikasi pemantau performa yang ada saat ini umumnya hanya menyimpan log secara lokal tanpa fitur komparasi otomatis berbasis spesifikasi yang identik.
+Video benchmark yang tersedia di platform seperti YouTube atau forum online umumnya diuji pada kondisi pengujian yang ideal (ruangan ber-AC, komponen kelas atas, *cooler* mahal), sehingga sering kali berbeda dengan performa nyata (*real-world*) setelah PC dirakit di lingkungan pengguna biasa. Selain itu, aplikasi pemantau performa yang ada saat ini umumnya hanya menyimpan log secara lokal tanpa fitur komparasi otomatis berbasis spesifikasi yang identik.
 
 **BenchMarkDB** hadir sebagai solusi dengan merekam metrik performa secara terstruktur per judul game, lalu menyimpannya ke database publik agar pengguna dapat membandingkan performa PC mereka secara objektif dengan pengguna lain yang memiliki spesifikasi perangkat keras serupa.
 
