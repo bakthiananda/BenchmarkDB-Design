@@ -16,14 +16,14 @@ Dokumentasi resmi dan repositori proyek untuk mata kuliah **Analisis dan Desain 
 ---
 
 ## 🚀 Latar Belakang & Problem Framing
-Video benchmark yang tersedia di platform seperti YouTube atau forum online umumnya diuji pada kondisi pengujian yang ideal (ruangan ber-AC, komponen kelas atas, *cooler* mahal), sehingga sering kali berbeda dengan performa nyata (*real-world*) setelah PC dirakit di lingkungan pengguna biasa. Selain itu, aplikasi pemantau performa yang ada saat ini umumnya hanya menyimpan log secara lokal tanpa fitur komparasi otomatis berbasis spesifikasi yang identik.
+Video benchmark yang tersedia di platform seperti YouTube atau forum online umumnya diuji pada kondisi pengujian yang ideal (ruangan ber-AC, komponen merk kelas atas, *cooler* mahal,dll), sehingga sering kali berbeda dengan performa nyata (*real-world*) setelah PC dirakit di lingkungan pengguna biasa. Selain itu, aplikasi pemantau performa yang ada saat ini umumnya hanya menyimpan log secara lokal tanpa fitur komparasi otomatis berbasis spesifikasi yang identik.
 
 **BenchMarkDB** hadir sebagai solusi dengan merekam metrik performa secara terstruktur per judul game, lalu menyimpannya ke database publik agar pengguna dapat membandingkan performa PC mereka secara objektif dengan pengguna lain yang memiliki spesifikasi perangkat keras serupa.
 
 ---
 
 ## ✨ Fitur Utama
-1. **Deteksi Hardware Otomatis:** Memindai spesifikasi komponen utama PC (CPU, GPU, RAM, dan Sistem Operasi) secara otomatis[cite: 18].
+1. **Deteksi Hardware Otomatis:** Memindai spesifikasi komponen utama PC (CPU, GPU, RAM, dan Sistem Operasi) secara otomatis.
 2. **Real-Time In-Game Overlay:** Menyediakan *overlay* transparan ringan yang menampilkan FPS saat ini, *Average FPS*, *1% Low FPS*, serta suhu CPU/GPU beserta titik *hotspot*.
 3. **Perekaman Telemetri Game:** Mencatat metrik performa dan preset grafis (*Low, Medium, High, Ultra*) secara spesifik per sesi game.
 4. **Database Komparasi Publik:** Memungkinkan pencarian dan komparasi data performa berdasarkan kombinasi CPU, GPU, judul game, dan preset grafis yang identik untuk mendeteksi anomali seperti *thermal throttling*.
