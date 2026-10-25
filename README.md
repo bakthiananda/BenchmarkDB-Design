@@ -41,7 +41,7 @@ Video benchmark yang tersedia di platform seperti YouTube atau forum online umum
 ---
 
 ## 📂 Struktur Repository
-Sesuai dengan ketentuan proyek, struktur direktori dalam repository ini diatur sebagai berikut:
+struktur direktori dalam repository ini diatur sebagai berikut:
 
 ```text
 ├── Diagram/
